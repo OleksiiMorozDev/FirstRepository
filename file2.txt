@@ -3,3 +3,4 @@ Some other line
 Line from user 2.
 Another line from Uers2.
 Critical bag was fixed.
+Line from User2 - lesson about rebase.
