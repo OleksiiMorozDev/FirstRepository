@@ -3,5 +3,5 @@ Hello world!
 Good bye!
 line from user2
 Line from User1.
-Some new feature.
+Some new feature456.
 Line from User1 - lesson about rebase.
